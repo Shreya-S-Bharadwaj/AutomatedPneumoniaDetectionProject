@@ -1,0 +1,6 @@
+For the GUI code base, these are the requirements - 
+> NumPy
+> Tensorflow
+> PyQt5
+
+For Model Training GPU/TPU is ideal. I trained my model on T4 GPU that is available for use on Google Colab Notebook.
