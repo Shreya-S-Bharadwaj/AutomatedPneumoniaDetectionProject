@@ -12,12 +12,13 @@ Fig. of Pneumonia affected lung:
 
 ![image](https://github.com/user-attachments/assets/cfdf8b7f-d1b7-48fe-9b88-ea70e82e0ab8)
 
-Model Summary- 
+
+# Model Summary- 
 ![image](https://github.com/user-attachments/assets/a6673240-8254-4ed1-82e0-66ee364a4a69)
 
 In the GUI, I have included an audio output on top of the Textual output which predicts the condition of the lung based on the X-ray input.
 
-App interface displaying model prediction for normal lungs :
+**App interface** displaying model prediction for normal lungs :
 
 ![image](https://github.com/user-attachments/assets/56fcd108-7a43-4d09-90fc-c0b538fe592a)
 
